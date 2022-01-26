@@ -7,7 +7,7 @@
 
 This repository contains solutions to the exercises for the SOP (Operating Systems) course led by Adam Kassenberg during studies on [PJAIT](https://www.pja.edu.pl/en/).
 
-The following code is distributed under the [CC BY-NC](./LICENSE.md)
+The following code is distributed under the [GPLv3](./LICENSE.md)
 
 ---
 
